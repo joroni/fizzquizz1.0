@@ -26,7 +26,7 @@ function loaderSpin() {
 
 $(document).ready(function () {
 
-    setTimeout(buttonAnimate, 3000)
+    setTimeout(buttonAnimate, 3000);
         function buttonAnimate() {
 
             $('.main-buttons li').addClass('animated bounceInDown');

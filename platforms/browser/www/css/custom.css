@@ -34,6 +34,10 @@ body {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+img.icon {
+    min-width:100%;
+    max-width:100%;
+}
 /*
 #top_title {
     background-image: url(../img/logo.png);
