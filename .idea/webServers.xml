@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="72fb4642-2a6b-424d-9e56-ae4171c1c40f" name="fizzquizz2.0" url="http://localhost/fizzquizz2.0">
-        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$/../fizzquizz2.0" accessType="MOUNT" />
+      <webServer id="72fb4642-2a6b-424d-9e56-ae4171c1c40f" name="fizzquizz1.0" url="http://localhost/fizzquizz1.0">
+        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
